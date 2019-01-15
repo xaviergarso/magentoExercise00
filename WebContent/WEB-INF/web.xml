@@ -10,7 +10,7 @@
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
   <servlet>
-    <servlet-name>Jersey Web Application</servlet-name>
+    <servlet-name>Magento Exercise Web Application</servlet-name>
     <servlet-class>com.sun.jersey.spi.container.servlet.ServletContainer</servlet-class>
     <load-on-startup>1</load-on-startup>
   </servlet>
